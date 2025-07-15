@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/pawanydv35/Tickdone.git",
+  "homepage": "https://pawanydv35.github.io/Tickdone/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
